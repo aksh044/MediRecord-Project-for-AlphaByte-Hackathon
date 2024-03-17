@@ -9,11 +9,17 @@
 ## MediRecord offers the following key features:
 
 1)Health Care Record Management: Store, manage, and access your health records securely in one place
+
 2)Chat Bot Assistant: Interact with a chat bot assistant for quick queries and assistance.
+
 3)Doctor Login: Doctors can securely log in to access patient records and provide medical assistance.
+
 4)Patient Login: Patients can log in to manage their health records and interact with the platform.
+
 5)Disease Assessment and Evaluation: Evaluate health conditions and receive assessments based on stored records.
+
 6)Dashboard and Profile Management: View comprehensive dashboards and manage user profiles effortlessly.
+
 7)Record Management: Add, delete, and update medical records as needed.
 
 ## Installation
