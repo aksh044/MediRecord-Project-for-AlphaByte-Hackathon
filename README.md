@@ -1,56 +1,36 @@
-﻿# MediRecord-Project-for-AlphaByte-Hackathon
- 
-## MediRecord - Your Personal Health Vault
+# MediRecord - Your Personal Health Vault
 
-### MediRecord is a platform dedicated to simplifying healthcare management for patients. Our application offers a user-friendly interface for storing, managing, and securely sharing medical records. With a focus on ease of use, security, and compliance, we aim to empower patients to take control of their health journey. Join us in revolutionizing healthcare management and improving patient outcomes.
+## Overview
 
-## About Our Application
+Healthcare is essential in daily life. MediRecord is a platform dedicated to simplifying healthcare management for patients. Our application offers a user-friendly interface for storing, managing, and securely sharing medical records. With a focus on ease of use, security, and compliance, we aim to empower patients to take control of their health journey. Join us in revolutionizing healthcare management and improving patient outcomes.
 
-## MediRecord offers the following key features:
+## Features
 
-1)Health Care Record Management: Store, manage, and access your health records securely in one place
+- **User-Friendly Interface:** Intuitive design for easy navigation and management of medical records.
+- **Secure Storage:** Safely store and manage medical records with top-notch security measures.
+- **Appointment Management:** Patients can book, view, manage, and cancel their appointments.
+- **Doctor's Inventory:** Doctors can view, manage, and cancel appointments.
+- **Booking Status:** Patients can check the status of their appointments, whether approved or not.
+- **Notes-Sharing System:** Send receipts and appointment confirmations in PDF format.
+- **Personalized Recommendations:** Provide personalized health recommendations.
+- **Chatbot Integration:** Built with Dialog Flow, the chatbot reduces healthcare costs and improves accessibility to medical knowledge through simple chat interactions.
 
-2)Chat Bot Assistant: Interact with a chat bot assistant for quick queries and assistance.
+## Technology Stack
 
-3)Doctor Login: Doctors can securely log in to access patient records and provide medical assistance.
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap
+- **Back-end:** PHP, MySQL
+- **Hosting:** XAMPP Server
 
-4)Patient Login: Patients can log in to manage their health records and interact with the platform.
+## Objectives
 
-5)Disease Assessment and Evaluation: Evaluate health conditions and receive assessments based on stored records.
-
-6)Dashboard and Profile Management: View comprehensive dashboards and manage user profiles effortlessly.
-
-7)Record Management: Add, delete, and update medical records as needed.
-
-## Installation
-
-1)Clone the repository:
-  git clone https://github.com/yourusername/medirecord.git
-
-2)Install dependencies:
-  cd medirecord
-  npm install
-
-## Usage
-
-1)Start the application:
-  npm start
-
-2)Access the application in your web browser at http://localhost:3000.
-
-## Contributing
-
-We welcome contributions from the community to enhance MediRecord. To contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/awesome-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/awesome-feature).
-Create a new Pull Request.
-
-## License
+- **Empower Patients:** Enable patients to take control of their health journey with a simple, secure, and efficient platform.
+- **Improve Healthcare Management:** Enhance the traditional infrastructure of the healthcare system with advanced technology.
+- **Reduce Costs:** Leverage chatbots to lower healthcare costs and improve accessibility.
+- **Personalized Care:** Provide personalized health recommendations and streamline the appointment process.
 
 
+## Video
 
+Watch a video demonstration of the project:
 
+[Download Video](videos/demo.mp4)
